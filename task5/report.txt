@@ -1,0 +1,23 @@
+Open Ports Found
+
+21 - FTP
+
+22 - SSH
+
+23 - Telnet
+
+25 - SMTP
+
+53 - DNS
+
+80 - HTTP
+
+111 - RPC
+
+139 - NetBIOS
+
+445 - SMB
+
+3306 - MySQL
+
+5432 - PostgreSQL
